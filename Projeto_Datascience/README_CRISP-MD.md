@@ -83,4 +83,4 @@ Este projeto foi desenvolvido seguindo a metodologia **CRISP-DM**, garantindo um
 
 ## 👥 Autores e Contato
 
-* **[Seu Nome]** - *Cientista de Dados / Analista de BI* - [Seu LinkedIn](https://linkedin.com)
+* **[Ian Roscoe Vogel]** - *Cientista de Dados / Analista de BI* - [Seu LinkedIn](https://linkedin.com)
