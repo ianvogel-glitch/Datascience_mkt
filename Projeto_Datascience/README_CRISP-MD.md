@@ -6,7 +6,9 @@
 
 ## 📌 Visão Geral do Projeto (Metodologia CRISP-DM)
 
-Este projeto foi desenvolvido seguindo a metodologia **CRISP-DM**, garantindo um ciclo de desenvolvimento estruturado e focado em gerar valor real para o negócio. Combinamos **Ciência de Dados** para modelagem preditiva e **Business Intelligence (BI)** para visualização estratégica dos resultados.
+Este projeto tem como objetivo analisar os padrões climáticos dos Estados Unidos por meio de técnicas de Ciência de Dados, utilizando dados históricos e modelos preditivos para identificar tendências e estimar possíveis mudanças nas condições climáticas. A partir dessas análises, busca-se compreender como os cenários climáticos podem impactar diferentes setores econômicos e gerar oportunidades ou desafios para o marketing.
+
+O desenvolvimento seguirá a metodologia **CRISP-DM**, estruturando o trabalho desde a compreensão do problema e dos dados até a modelagem, avaliação e apresentação dos resultados. Além disso, serão utilizadas ferramentas de **Business Intelligence (BI)** para transformar os dados e as previsões em visualizações que facilitem a interpretação dos cenários e apoiem a tomada de decisões estratégicas.
 
 ```text
        ┌────────────────────────────────────────────────────────┐
