@@ -36,7 +36,7 @@ O trabalho seguirá a metodologia **CRISP-DM**, utilizando Python para coleta, t
 ## 🛠️ Ciclo de Vida do Projeto (Fases do CRISP-DM)
 
 ### 1. Entendimento do Negócio
-* **Problema de Negócio:** [Ex: O time de retenção sofre com surpresas na saída de clientes recorrentes, sem tempo hábil para ações preventivas.]
+* **Problema de Negócio:** As mudanças climáticas podem influenciar a percepção ambiental e os hábitos de consumo da população. Entretanto, essas reações podem variar entre países, tornando importante compreender como o comportamento dos consumidores se modifica diante das questões climáticas e quais desafios e oportunidades isso representa para as estratégias de Marketing.
 * **Objetivo:** [Ex: Prever com pelo menos 30 dias de antecedência quais clientes têm alta propensão ao cancelamento.]
 * **Solução Proposta:** Um modelo preditivo de Machine Learning integrado a um painel de BI atualizado diariamente para tomadas de decisão.
 
