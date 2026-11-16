@@ -1,14 +1,17 @@
-# 📊 [Nome do Seu Projeto de Dados]
+# 📊 nálise Comparativa de Indicadores Econômicos, Sociais e Ambientais entre Países
 
-> **[Uma frase curta e direta explicando o impacto do projeto. Ex: Modelo preditivo de Churn integrado a um painel analítico para redução de perdas de clientes.]**
+> **]Uma análise orientada por dados para identificar padrões e relações entre desenvolvimento econômico, condições sociais e sustentabilidade ambiental em diferentes países e como desenvolver algo no marketing com essa análise.**
 
 ---
 
 ## 📌 Visão Geral do Projeto (Metodologia CRISP-DM)
 
-Este projeto tem como objetivo analisar os padrões climáticos dos Estados Unidos por meio de técnicas de Ciência de Dados, utilizando dados históricos e modelos preditivos para identificar tendências e estimar possíveis mudanças nas condições climáticas. A partir dessas análises, busca-se compreender como os cenários climáticos podem impactar diferentes setores econômicos e gerar oportunidades ou desafios para o marketing.
 
-O desenvolvimento seguirá a metodologia **CRISP-DM**, estruturando o trabalho desde a compreensão do problema e dos dados até a modelagem, avaliação e apresentação dos resultados. Além disso, serão utilizadas ferramentas de **Business Intelligence (BI)** para transformar os dados e as previsões em visualizações que facilitem a interpretação dos cenários e apoiem a tomada de decisões estratégicas.
+Este projeto tem como objetivo analisar como as populações de diferentes países percebem e reagem às mudanças climáticas, investigando possíveis impactos na preocupação ambiental e nos hábitos de consumo. Por meio de técnicas de Ciência de Dados, serão identificados padrões e diferenças entre países.
+
+A partir dos resultados, busca-se compreender como essas mudanças de comportamento podem influenciar o mercado e contribuir para o desenvolvimento de estratégias de Marketing.
+
+O trabalho seguirá a metodologia **CRISP-DM**, utilizando Python para coleta, tratamento, análise e visualização dos dados.
 
 ```text
        ┌────────────────────────────────────────────────────────┐
