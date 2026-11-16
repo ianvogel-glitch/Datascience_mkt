@@ -1,4 +1,4 @@
-# 📊 nálise Comparativa de Indicadores Econômicos, Sociais e Ambientais entre Países
+# 📊 Análise Comparativa de Indicadores Econômicos, Sociais e Ambientais entre Países
 
 > **]Uma análise orientada por dados para identificar padrões e relações entre desenvolvimento econômico, condições sociais e sustentabilidade ambiental em diferentes países e como desenvolver algo no marketing com essa análise.**
 
