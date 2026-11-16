@@ -37,7 +37,7 @@ O trabalho seguirá a metodologia **CRISP-DM**, utilizando Python para coleta, t
 
 ### 1. Entendimento do Negócio
 * **Problema de Negócio:** As mudanças climáticas podem influenciar a percepção ambiental e os hábitos de consumo da população. Entretanto, essas reações podem variar entre países, tornando importante compreender como o comportamento dos consumidores se modifica diante das questões climáticas e quais desafios e oportunidades isso representa para as estratégias de Marketing.
-* **Objetivo:** [Ex: Prever com pelo menos 30 dias de antecedência quais clientes têm alta propensão ao cancelamento.]
+* **Objetivo:** Analisar como as populações de diferentes países percebem e reagem às mudanças climáticas, identificando possíveis relações com a preocupação ambiental e os hábitos de consumo. A partir dos resultados, buscar compreender como essas diferenças podem influenciar o comportamento dos consumidores e contribuir para o desenvolvimento de estratégias de Marketing.
 * **Solução Proposta:** Um modelo preditivo de Machine Learning integrado a um painel de BI atualizado diariamente para tomadas de decisão.
 
 ### 2. Entendimento dos Dados
