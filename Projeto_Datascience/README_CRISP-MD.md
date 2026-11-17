@@ -41,8 +41,12 @@ Analisar os hábitos de compra online na Europa, identificando padrões e difere
 Utilizar dados públicos do Eurostat e técnicas de análise de dados para explorar o comportamento de compra pela internet. Através da organização, visualização e análise dos dados, pretende-se identificar tendências e padrões que possam gerar informações úteis para a tomada de decisões e o planeamento de estratégias de Marketing.
 
 ### 2. Entendimento dos Dados
-* **Fontes:** Dados extraídos do CRM ([Nome do sistema]) e do banco de transações ERP.
-* **Análise Exploratória (EDA):** Identificação de distribuições, valores nulos e correlações iniciais. *(Os notebooks desta fase estão localizados em `notebooks/1_eda/`)*.
+
+### Fontes
+Os dados foram obtidos através do **Eurostat**, a plataforma oficial de estatísticas da União Europeia. O ficheiro utilizado contém 558.750 registos e 11 colunas, com informações sobre compras online em 40 referências geográficas, entre 2020 e 2025. Descarregar o ficheiro Eurostat — isoc_ec_ib20_linear.csv.gz
+
+### Análise Exploratória (EDA)
+A base de dados apresenta diferentes indicadores sobre compras pela internet, frequência de utilização e características dos grupos populacionais. Nesta fase, pretende-se conhecer a estrutura dos dados, analisar os valores disponíveis e identificar possíveis dados em falta, preparando a base para as próximas etapas do projeto.
 
 ### 3. Preparação dos Dados
 * **Limpeza e Tratamento:** Tratamento de dados faltantes, remoção de *outliers* e unificação de formatos de data.
