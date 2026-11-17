@@ -1,18 +1,13 @@
-# 📊 Análise Comparativa de Indicadores Econômicos, Sociais e Ambientais entre Países
+# 📊 Consumo Digital na Europa: Comportamento de Compra pela Internet
 
-> **]Uma análise orientada por dados para identificar padrões e relações entre desenvolvimento econômico, condições sociais e sustentabilidade ambiental em diferentes países e como desenvolver algo no marketing com essa análise.**
+> **Analisar o comportamento de compra online dos consumidores europeus, identificando padrões e tendências que possam contribuir para estratégias de Marketing mais eficazes.**
 
 ---
 
 ## 📌 Visão Geral do Projeto (Metodologia CRISP-DM)
 
 
-Este projeto tem como objetivo analisar como as populações de diferentes países percebem e reagem às mudanças climáticas, investigando possíveis impactos na preocupação ambiental e nos hábitos de consumo. Por meio de técnicas de Ciência de Dados, serão identificados padrões e diferenças entre países.
-
-A partir dos resultados, busca-se compreender como essas mudanças de comportamento podem influenciar o mercado e contribuir para o desenvolvimento de estratégias de Marketing.
-
-O trabalho seguirá a metodologia **CRISP-DM**, utilizando Python para coleta, tratamento, análise e visualização dos dados.
-
+Este projeto tem como foco analisar o comportamento de compra pela internet na Europa, procurando compreender como esse hábito se manifesta em diferentes países e grupos de consumidores. A partir de dados públicos do Eurostat, serão exploradas características demográficas e tendências relacionadas às compras online. A análise pretende identificar padrões de consumo e transformar os dados em informações relevantes para o Marketing, contribuindo para uma melhor compreensão do consumidor digital e para o desenvolvimento de estratégias mais eficazes.
 ```text
        ┌────────────────────────────────────────────────────────┐
        │                                                        │
@@ -36,10 +31,15 @@ O trabalho seguirá a metodologia **CRISP-DM**, utilizando Python para coleta, t
 ## 🛠️ Ciclo de Vida do Projeto (Fases do CRISP-DM)
 
 ### 1. Entendimento do Negócio
-* **Problema de Negócio:** As mudanças climáticas podem influenciar a percepção ambiental e os hábitos de consumo da população. Entretanto, essas reações podem variar entre países, tornando importante compreender como o comportamento dos consumidores se modifica diante das questões climáticas e quais desafios e oportunidades isso representa para as estratégias de Marketing.
-* **Objetivo:** Analisar como as populações de diferentes países percebem e reagem às mudanças climáticas, identificando possíveis relações com a preocupação ambiental e os hábitos de consumo. A partir dos resultados, buscar compreender como essas diferenças podem influenciar o comportamento dos consumidores e contribuir para o desenvolvimento de estratégias de Marketing.
-* **Solução Proposta:** Utilizar Python e Google Colab para coletar, organizar e analisar dados climáticos, ambientais e relacionados à percepção e ao comportamento dos consumidores em diferentes países. Serão realizadas análises exploratórias e comparativas, além do desenvolvimento de um modelo preditivo para estimar a probabilidade de adoção de hábitos de consumo sustentável. Os resultados serão apresentados por meio de gráficos e análises, buscando identificar padrões de comportamento e gerar informações que possam contribuir para o desenvolvimento de estratégias de Marketing.
-  
+### Problema de negócio
+O crescimento das compras pela internet transformou a forma como os consumidores pesquisam, escolhem e adquirem produtos e serviços. No entanto, os hábitos de compra online não são iguais entre todos os consumidores e podem variar de acordo com o país e as características demográficas da população. Para o Marketing, compreender essas diferenças é importante para identificar oportunidades e desenvolver estratégias mais adequadas aos diferentes perfis de consumidores.
+
+### Objetivo do projeto
+Analisar os hábitos de compra online na Europa, identificando padrões e diferenças entre países e grupos de consumidores, com o objetivo de compreender melhor o comportamento do consumidor digital.
+
+### Solução proposta
+Utilizar dados públicos do Eurostat e técnicas de análise de dados para explorar o comportamento de compra pela internet. Através da organização, visualização e análise dos dados, pretende-se identificar tendências e padrões que possam gerar informações úteis para a tomada de decisões e o planeamento de estratégias de Marketing.
+
 ### 2. Entendimento dos Dados
 * **Fontes:** Dados extraídos do CRM ([Nome do sistema]) e do banco de transações ERP.
 * **Análise Exploratória (EDA):** Identificação de distribuições, valores nulos e correlações iniciais. *(Os notebooks desta fase estão localizados em `notebooks/1_eda/`)*.
